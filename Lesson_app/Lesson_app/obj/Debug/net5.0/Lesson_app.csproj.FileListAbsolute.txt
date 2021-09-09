@@ -1,0 +1,15 @@
+C:\C# projects\Lesson2_\Lesson_app\Lesson_app\bin\Debug\net5.0\Lesson_app.exe
+C:\C# projects\Lesson2_\Lesson_app\Lesson_app\bin\Debug\net5.0\Lesson_app.deps.json
+C:\C# projects\Lesson2_\Lesson_app\Lesson_app\bin\Debug\net5.0\Lesson_app.runtimeconfig.json
+C:\C# projects\Lesson2_\Lesson_app\Lesson_app\bin\Debug\net5.0\Lesson_app.runtimeconfig.dev.json
+C:\C# projects\Lesson2_\Lesson_app\Lesson_app\bin\Debug\net5.0\Lesson_app.dll
+C:\C# projects\Lesson2_\Lesson_app\Lesson_app\bin\Debug\net5.0\ref\Lesson_app.dll
+C:\C# projects\Lesson2_\Lesson_app\Lesson_app\bin\Debug\net5.0\Lesson_app.pdb
+C:\C# projects\Lesson2_\Lesson_app\Lesson_app\obj\Debug\net5.0\Lesson_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# projects\Lesson2_\Lesson_app\Lesson_app\obj\Debug\net5.0\Lesson_app.AssemblyInfoInputs.cache
+C:\C# projects\Lesson2_\Lesson_app\Lesson_app\obj\Debug\net5.0\Lesson_app.AssemblyInfo.cs
+C:\C# projects\Lesson2_\Lesson_app\Lesson_app\obj\Debug\net5.0\Lesson_app.csproj.CoreCompileInputs.cache
+C:\C# projects\Lesson2_\Lesson_app\Lesson_app\obj\Debug\net5.0\Lesson_app.dll
+C:\C# projects\Lesson2_\Lesson_app\Lesson_app\obj\Debug\net5.0\ref\Lesson_app.dll
+C:\C# projects\Lesson2_\Lesson_app\Lesson_app\obj\Debug\net5.0\Lesson_app.pdb
+C:\C# projects\Lesson2_\Lesson_app\Lesson_app\obj\Debug\net5.0\Lesson_app.genruntimeconfig.cache
