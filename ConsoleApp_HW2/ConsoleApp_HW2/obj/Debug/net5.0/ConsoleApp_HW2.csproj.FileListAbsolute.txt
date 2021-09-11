@@ -1,0 +1,16 @@
+C:\C# projects\Lesson2_\ConsoleApp_HW2\ConsoleApp_HW2\bin\Debug\net5.0\ConsoleApp_HW2.exe
+C:\C# projects\Lesson2_\ConsoleApp_HW2\ConsoleApp_HW2\bin\Debug\net5.0\ConsoleApp_HW2.deps.json
+C:\C# projects\Lesson2_\ConsoleApp_HW2\ConsoleApp_HW2\bin\Debug\net5.0\ConsoleApp_HW2.runtimeconfig.json
+C:\C# projects\Lesson2_\ConsoleApp_HW2\ConsoleApp_HW2\bin\Debug\net5.0\ConsoleApp_HW2.runtimeconfig.dev.json
+C:\C# projects\Lesson2_\ConsoleApp_HW2\ConsoleApp_HW2\bin\Debug\net5.0\ConsoleApp_HW2.dll
+C:\C# projects\Lesson2_\ConsoleApp_HW2\ConsoleApp_HW2\bin\Debug\net5.0\ref\ConsoleApp_HW2.dll
+C:\C# projects\Lesson2_\ConsoleApp_HW2\ConsoleApp_HW2\bin\Debug\net5.0\ConsoleApp_HW2.pdb
+C:\C# projects\Lesson2_\ConsoleApp_HW2\ConsoleApp_HW2\obj\Debug\net5.0\ConsoleApp_HW2.csproj.AssemblyReference.cache
+C:\C# projects\Lesson2_\ConsoleApp_HW2\ConsoleApp_HW2\obj\Debug\net5.0\ConsoleApp_HW2.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# projects\Lesson2_\ConsoleApp_HW2\ConsoleApp_HW2\obj\Debug\net5.0\ConsoleApp_HW2.AssemblyInfoInputs.cache
+C:\C# projects\Lesson2_\ConsoleApp_HW2\ConsoleApp_HW2\obj\Debug\net5.0\ConsoleApp_HW2.AssemblyInfo.cs
+C:\C# projects\Lesson2_\ConsoleApp_HW2\ConsoleApp_HW2\obj\Debug\net5.0\ConsoleApp_HW2.csproj.CoreCompileInputs.cache
+C:\C# projects\Lesson2_\ConsoleApp_HW2\ConsoleApp_HW2\obj\Debug\net5.0\ConsoleApp_HW2.dll
+C:\C# projects\Lesson2_\ConsoleApp_HW2\ConsoleApp_HW2\obj\Debug\net5.0\ref\ConsoleApp_HW2.dll
+C:\C# projects\Lesson2_\ConsoleApp_HW2\ConsoleApp_HW2\obj\Debug\net5.0\ConsoleApp_HW2.pdb
+C:\C# projects\Lesson2_\ConsoleApp_HW2\ConsoleApp_HW2\obj\Debug\net5.0\ConsoleApp_HW2.genruntimeconfig.cache

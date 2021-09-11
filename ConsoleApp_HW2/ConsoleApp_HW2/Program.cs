@@ -11,6 +11,18 @@ namespace ConsoleApp_HW2
             string userName = Console.ReadLine();
 
             Console.WriteLine("Sveiks, " + userName);
+
+            //------------------------------------------------------
+
+            Console.WriteLine("Kāds ir Tavs vecums?");
+
+            string ageNumber = Console.ReadLine();
+
+            int age = int.Parse(ageNumber);
+            int nextYearAge = age + 1;
+
+            Console.WriteLine("Sveiks, Tev nākamgad paliks: " + nextYearAge);
+
         }
     }
 }

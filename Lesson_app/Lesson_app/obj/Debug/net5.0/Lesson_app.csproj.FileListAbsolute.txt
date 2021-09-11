@@ -13,3 +13,4 @@ C:\C# projects\Lesson2_\Lesson_app\Lesson_app\obj\Debug\net5.0\Lesson_app.dll
 C:\C# projects\Lesson2_\Lesson_app\Lesson_app\obj\Debug\net5.0\ref\Lesson_app.dll
 C:\C# projects\Lesson2_\Lesson_app\Lesson_app\obj\Debug\net5.0\Lesson_app.pdb
 C:\C# projects\Lesson2_\Lesson_app\Lesson_app\obj\Debug\net5.0\Lesson_app.genruntimeconfig.cache
+C:\C# projects\Lesson2_\Lesson_app\Lesson_app\obj\Debug\net5.0\Lesson_app.csproj.AssemblyReference.cache
