@@ -45,6 +45,8 @@ namespace ConsoleApp_HW2
             Console.WriteLine("Lielākais no piedāvātajiem skaitļiem ir: " + maxResult);
 
             //------------------------------------------------------
+            Console.WriteLine("=======================================");
+
             Console.WriteLine("Lūdzu, norādi nākamo skaitli:");
             string Number3 = Console.ReadLine();
             int randomNr3 = int.Parse(Number3);
@@ -58,6 +60,7 @@ namespace ConsoleApp_HW2
             Console.WriteLine("Mazākais no piedāvātajiem skaitļiem ir: " + minResult);
 
             //------------------------------------------------------
+            Console.WriteLine("=======================================");
 
             Console.WriteLine("Lūdzu, norādi izteiksmes dalāmo:");
             string Number5 = Console.ReadLine();
@@ -70,6 +73,22 @@ namespace ConsoleApp_HW2
             int divisionResult = randomNr5 % randomNr6;
 
             Console.WriteLine("Izvēlēto skaitļu dalījuma atlikums ir: " + divisionResult);
+
+            //------------------------------------------------------
+            Console.WriteLine("=======================================");
+
+            Console.WriteLine("Lūdzu, norādi jebkuru skaitli:");
+            
+            string Number7 = Console.ReadLine();
+
+            int randomNr7 = int.Parse(Number7);
+
+            bool isEven = randomNr7 % 2 == 0;
+
+            Console.WriteLine(isEven ? "Šis ir pāra skaitlis. " : "Šis ir nepāra skaitlis. ");
+
+            
+
         }
     }
 }
