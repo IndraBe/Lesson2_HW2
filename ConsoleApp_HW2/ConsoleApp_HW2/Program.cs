@@ -27,7 +27,7 @@ namespace ConsoleApp_HW2
             bool isAdult = nextYearAge > notAdult;
 
             Console.WriteLine("Sveiks, Tev nākamgad paliks: " + nextYearAge);
-            Console.WriteLine(isAdult ? "tu esi pilngadīgs. " : "tu neeesi pilngadīgs. ");
+            Console.WriteLine(isAdult ? "tu esi pilngadīgs. " : "tu neesi pilngadīgs. ");
 
             //------------------------------------------------------
             Console.WriteLine("=======================================");
@@ -45,11 +45,11 @@ namespace ConsoleApp_HW2
             Console.WriteLine("Lielākais no piedāvātajiem skaitļiem ir: " + maxResult);
 
             //------------------------------------------------------
-            Console.WriteLine("Lūdzu, norādi 1. skaitli:");
+            Console.WriteLine("Lūdzu, norādi nākamo skaitli:");
             string Number3 = Console.ReadLine();
             int randomNr3 = int.Parse(Number3);
 
-            Console.WriteLine("Lūdzu, norādi 2. skaitli:");
+            Console.WriteLine("Norādi, lūdzu, vēl vienu skaitli:");
             string Number4 = Console.ReadLine();
             int randomNr4 = int.Parse(Number4);
 
@@ -57,7 +57,19 @@ namespace ConsoleApp_HW2
 
             Console.WriteLine("Mazākais no piedāvātajiem skaitļiem ir: " + minResult);
 
+            //------------------------------------------------------
 
+            Console.WriteLine("Lūdzu, norādi izteiksmes dalāmo:");
+            string Number5 = Console.ReadLine();
+            int randomNr5 = int.Parse(Number5);
+
+            Console.WriteLine("Lūdzu, norādi izteiksmes dalītāju:");
+            string Number6 = Console.ReadLine();
+            int randomNr6 = int.Parse(Number6);
+
+            int divisionResult = randomNr5 % randomNr6;
+
+            Console.WriteLine("Izvēlēto skaitļu dalījuma atlikums ir: " + divisionResult);
         }
     }
 }
